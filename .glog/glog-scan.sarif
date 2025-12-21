@@ -1,0 +1,521 @@
+{
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Glog.AI",
+          "organization": "Glog.AI",
+          "fullName": "Glog, Making software more secure",
+          "version": "1.0.0",
+          "semanticVersion": "1.0.0",
+          "informationUri": "https://www.glog.ai",
+          "rules": [
+            {
+              "id": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "011b3136-79e1-376d-b1bf-2a8d4681a7e1",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "387247e5-e8d9-31e0-88c0-d2a6f7781f26",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "7be49461-66a5-3f70-ad33-501a1f45ae9c",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "feb80049-4864-3c22-8be4-bc6e3ff298f4",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "aa3578de-9f1f-3361-836d-ee1873ef7f70",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "ae5711f8-7149-38e6-b9ad-5881a94afbff",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
+              "id": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            }
+          ],
+          "language": "en-US",
+          "contents": [
+            "localizedData",
+            "nonLocalizedData"
+          ],
+          "isComprehensive": false
+        }
+      },
+      "language": "en-US",
+      "results": [
+        {
+          "ruleId": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 1,
+                  "endLine": 129,
+                  "endColumn": 41,
+                  "snippet": {
+                    "text": "@app.route(\"/\")\ndef index():\n\n    return render_template(\"index.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "7e21f9c0ba6cdd5a9b497a2b49b160b9d34bcd60272c6a0f19f09311dd4378d07036dda4de164b51f25f997be19984508714129f002ef6747f95560edb4677ef_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/register\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 1,
+                  "endLine": 189,
+                  "endColumn": 88,
+                  "snippet": {
+                    "text": "@app.route(\"/register\", methods=[\"POST\"])\ndef register():\n    if request.method == \"POST\":\n        req = request.form\n\n        username = req.get(\"username\")\n        color = req.get(\"color\")\n        password = req.get(\"password\")\n\n        hashed_password = bcrypt.hashpw(password.encode(\"utf-8\"), bcrypt.gensalt())\n\n        def db_query():\n            db = Database()\n            emps = db.add_user(username, color, hashed_password)\n\n            return emps\n\n        res = db_query()\n        return render_template(\"login.html\", check=\"<h1>Registration succesfull!</h1>\")"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "f319cef299810582af2ed8b5fe282d8d2537673f7a245be014224648fe1e308cbcdc9c23ddedf8396b0b35b8b79412e85f29ac4192e1a67e82cf5e03327f163b_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/login\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 1,
+                  "endLine": 168,
+                  "endColumn": 45,
+                  "snippet": {
+                    "text": "@app.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n\n    if \"loggedin\" in session:\n        return redirect(\"/send-message\")\n\n    if request.method == \"POST\":\n        req = request.form\n\n        username = req.get(\"username\")\n        password = req.get(\"password\")\n\n        def db_query():\n            db = Database()\n            emps = db.login(username)\n\n            return emps\n\n        account = db_query()\n        if account:\n            if bcrypt.hashpw(\n                password.encode(\"utf-8\"), account[0][\"password\"].encode(\"utf-8\")\n            ) == account[0][\"password\"].encode(\"utf-8\"):\n                session[\"loggedin\"] = True\n                session[\"id\"] = account[0][\"id\"]\n                session[\"username\"] = account[0][\"username\"]\n                session[\"color\"] = account[0][\"color\"]\n\n        return redirect(\"/send-message\")\n    else:\n        return render_template(\"login.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "4c47aaafff2b75c070614f750141df1f940c93d35edfed88d269fe9d1bf0f1101f3b40c62dae728fa2a3b931b7c3d20314b90cc5ee96afd2e63d70e2afc0a7dd_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "387247e5-e8d9-31e0-88c0-d2a6f7781f26",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/faq\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 1,
+                  "endLine": 195,
+                  "endColumn": 39,
+                  "snippet": {
+                    "text": "@app.route(\"/faq\")\ndef faq():\n\n    return render_template(\"faq.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "da356e3506b1de209c66db6db801b69a013195416ec8bebc071b0bd9611cc701f11606c7c15b21d2b3a9fe1cc3f103b2fc7d1c9e73b5d1dcf59e275a2dfad5f7_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "7be49461-66a5-3f70-ad33-501a1f45ae9c",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/score\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 198,
+                  "startColumn": 1,
+                  "endLine": 218,
+                  "endColumn": 6,
+                  "snippet": {
+                    "text": "@app.route(\"/score\")\ndef score():\n    def db_query():\n        db = Database()\n        emps = db.list_victims()\n\n        return emps\n\n    res = db_query()\n\n    def db_query2():\n        db = Database()\n        emps = db.count_colors()\n\n        return emps\n\n    res2 = db_query2()\n\n    return render_template(\n        \"score.html\", result=res, result2=res2, content_type=\"application/json\"\n    )"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "e4390ed86ac39bf32d3b46ababf34cc2468b487324c0ddf24a6235ed92564eafec7cebb03f53864b3e04cfad325f89847a2f4f7764516b04a6cc2e5331424fb4_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "feb80049-4864-3c22-8be4-bc6e3ff298f4",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/read-message\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 247,
+                  "startColumn": 1,
+                  "endLine": 263,
+                  "endColumn": 87,
+                  "snippet": {
+                    "text": "@app.route(\"/read-message\")\ndef read_message():\n\n    if request.cookies.get(\"secret\") != \"correct-horse-battery-staple\":\n        abort(403)\n\n    id = request.cookies.get(\"31p475~Yr37748-35r0h~7c3rr0C-ID\")\n\n    def db_query():\n        db = Database()\n        emps = db.read_message(id)\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\"read-message.html\", result=res, content_type=\"text/plain\")"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "bb12d7a71f0d3f13579b99ce9f818ceb19974d0c542038e8d2ef561ee5dc0fb5cd8305505a896405cb30c4760d5c6b92f9997c4e0690f19ae53797f40d9234f0_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "aa3578de-9f1f-3361-836d-ee1873ef7f70",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/update\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 221,
+                  "startColumn": 1,
+                  "endLine": 244,
+                  "endColumn": 42,
+                  "snippet": {
+                    "text": "@app.route(\"/update\", methods=[\"GET\", \"POST\"])\ndef update():\n    if request.cookies.get(\"secret\") != \"correct-horse-battery-staple\":\n        abort(403)\n\n    if request.method == \"POST\":\n        req = request.form\n\n        color = req.get(\"color\")\n\n        if \"31p475~Yr37748-35r0h~7c3rr0C-ID\" in request.cookies:\n            cookie_id = request.cookies.get(\"31p475~Yr37748-35r0h~7c3rr0C-ID\")\n\n            def db_query():\n                db = Database()\n                emps = db.update_color(color, cookie_id)\n\n                return emps\n\n            res = db_query()\n        else:\n            print(\"no cookie\")\n\n    return render_template(\"update.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "b2f0b8c27dcd5dad1214d17b2a0ca70461c0cf76eafcab8fd200f9755bc2f7dc058bf3dc18dae054c1355d479cdbf4eec30e9a3dfc1d8b3e38316fc2c7ef2762_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "ae5711f8-7149-38e6-b9ad-5881a94afbff",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/jsonp\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 325,
+                  "startColumn": 1,
+                  "endLine": 343,
+                  "endColumn": 52,
+                  "snippet": {
+                    "text": "@app.route(\"/jsonp\")\ndef jsonp():\n    def db_query():\n        db = Database()\n        emps = db.count_colors()\n\n        return emps\n\n    res = db_query()\n    res = json.dumps(res)\n\n    content_type = \"application/json\"\n\n    callback = request.args.get(\"callback\", False)\n    if callback:\n        res = str(callback) + \"(\" + res + \")\"\n        content_type = \"text/javascript\"\n\n    return Response(res, content_type=content_type)"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "8c15eec95bdc78e3f28720beb3ce6dced612520b5898d2682f915770c7ef56b9ca1c89e44174d8bd1da481cac2c5068489d7dcf35cae8ebc5da9e73b01fd253e_0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/send-message\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 1,
+                  "endLine": 322,
+                  "endColumn": 6,
+                  "snippet": {
+                    "text": "@app.route(\"/send-message\", methods=[\"GET\", \"POST\"])\ndef send_message():\n    if (\"loggedin\" not in session) and (\n        request.cookies.get(\"secret\") != \"correct-horse-battery-staple\"\n    ):\n        return redirect(\"/login\")\n\n    if request.cookies.get(\"secret\") == \"correct-horse-battery-staple\":\n        req = request.form\n        victim_id = req.get(\"id\")\n        msg = req.get(\"msg\")\n\n        def db_query():\n            db = Database()\n            emps = db.send_message_puppeteer(victim_id, msg)\n\n            return emps\n\n        res2 = db_query()\n\n        return render_template(\"send-message.html\")\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n    if request.method == \"POST\":\n        if res[\"messages\"] > 0:\n            req = request.form\n            victim_id = req.get(\"id\")\n            msg = req.get(\"msg\")\n\n            def db_query():\n                db = Database()\n                emps = db.send_message(victim_id, msg, session[\"id\"])\n\n                return emps\n\n            res2 = db_query()\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\n        \"send-message.html\",\n        color=session[\"color\"],\n        username=session[\"username\"],\n        remaining=res[\"messages\"],\n    )"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "c3a4ef0d8e48decc0a1849641e32b9c128334852b6a5e369ff8163d023b47ea9886fa3083accf0d74423ff223a5dce39f25d97a2d20b1a723aaf01dc11f7d87f_0"
+          },
+          "properties": {}
+        }
+      ],
+      "newlineSequences": [
+        "\r\n",
+        "\n"
+      ]
+    }
+  ]
+}
