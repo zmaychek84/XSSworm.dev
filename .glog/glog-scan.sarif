@@ -12,7 +12,7 @@
           "informationUri": "https://www.glog.ai",
           "rules": [
             {
-              "id": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
+              "id": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
               "name": "resources.rules.python.flask-app-route-handler",
               "shortDescription": {
                 "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
@@ -54,7 +54,7 @@
               }
             },
             {
-              "id": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
+              "id": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
               "name": "resources.rules.python.flask-app-route-handler",
               "shortDescription": {
                 "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
@@ -75,7 +75,7 @@
               }
             },
             {
-              "id": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
+              "id": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
               "name": "resources.rules.python.flask-app-route-handler",
               "shortDescription": {
                 "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
@@ -180,6 +180,27 @@
               }
             },
             {
+              "id": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
+              "name": "resources.rules.python.flask-app-route-handler",
+              "shortDescription": {
+                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
+              },
+              "fullDescription": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
+              },
+              "defaultConfiguration": {
+                "enabled": true,
+                "level": "note"
+              },
+              "help": {
+                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
+                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+              },
+              "properties": {
+                "precision": "very-high"
+              }
+            },
+            {
               "id": "ae5711f8-7149-38e6-b9ad-5881a94afbff",
               "name": "resources.rules.python.flask-app-route-handler",
               "shortDescription": {
@@ -201,24 +222,25 @@
               }
             },
             {
-              "id": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
+              "id": "9712c560-68c2-36d1-abe9-779d22a47f5b",
+              "name": "\"Cryptographic Weakness in crypto.pseudoRandomBytes()/Math.random() Random Number Generator\"",
+              "helpUri": "https://www.glog.ai/",
               "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
+                "text": "",
+                "markdown": "## Description\n\nThe `Math.random()` function in JavaScript is not suitable for cryptographic purposes. It generates pseudo-random numbers using a seed that can be easily predicted, making it vulnerable to attacks. Similarly, the `crypto.pseudoRandomBytes()` function in Node.js is also not suitable for cryptographic purposes as it does not provide cryptographically strong random values.\n\n## Mitigation Advice\n\nFor generating cryptographically secure random numbers, use `crypto.randomBytes()` in Node.js or the Web Cryptography API's `window.crypto.getRandomValues()` in the browser.\n\n## Source Code Fix Recommendation\n\nHere is a fixed version of the code using `crypto.randomBytes()`:\n\n```javascript\nconst crypto = require('crypto');\n\nvar array = Array.from({length: 1001}, (_, i) => [i, crypto.randomBytes(1)[0]/255]).sort((a, b) => a[1] - b[1]).map(([n, r]) => n)\n```\n\n## Library Dependencies\n\nThe code example requires the `crypto` library which is a built-in module in Node.js.\n\n## References\n\n- [CWE-338: Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)](https://cwe.mitre.org/data/definitions/338.html)"
               },
               "properties": {
-                "precision": "very-high"
+                "cwe": [
+                  {
+                    "id": "CWE-338",
+                    "url": "https://cwe.mitre.org/data/definitions/338.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-338"
+                ]
               }
             }
           ],
@@ -232,6 +254,37 @@
       },
       "language": "en-US",
       "results": [
+        {
+          "ruleId": "011b3136-79e1-376d-b1bf-2a8d4681a7e1",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/rules\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 1,
+                  "endLine": 135,
+                  "endColumn": 41,
+                  "snippet": {
+                    "text": "@app.route(\"/rules\")\ndef rules():\n\n    return render_template(\"rules.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "4c28bf50c5f7fcd0b4f7edc9541b84a75cd7923b515b0c4d29fc37d1c1a34c7be8573010583696e0b9e30a51fe0b210ce41c4c842950f18fedbc18d9778746ed_0"
+          },
+          "properties": {}
+        },
         {
           "ruleId": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
           "kind": "fail",
@@ -260,37 +313,6 @@
           ],
           "fingerprints": {
             "matchBasedId/v1": "7e21f9c0ba6cdd5a9b497a2b49b160b9d34bcd60272c6a0f19f09311dd4378d07036dda4de164b51f25f997be19984508714129f002ef6747f95560edb4677ef_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/register\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 171,
-                  "startColumn": 1,
-                  "endLine": 189,
-                  "endColumn": 88,
-                  "snippet": {
-                    "text": "@app.route(\"/register\", methods=[\"POST\"])\ndef register():\n    if request.method == \"POST\":\n        req = request.form\n\n        username = req.get(\"username\")\n        color = req.get(\"color\")\n        password = req.get(\"password\")\n\n        hashed_password = bcrypt.hashpw(password.encode(\"utf-8\"), bcrypt.gensalt())\n\n        def db_query():\n            db = Database()\n            emps = db.add_user(username, color, hashed_password)\n\n            return emps\n\n        res = db_query()\n        return render_template(\"login.html\", check=\"<h1>Registration succesfull!</h1>\")"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "f319cef299810582af2ed8b5fe282d8d2537673f7a245be014224648fe1e308cbcdc9c23ddedf8396b0b35b8b79412e85f29ac4192e1a67e82cf5e03327f163b_0"
           },
           "properties": {}
         },
@@ -450,6 +472,37 @@
           "properties": {}
         },
         {
+          "ruleId": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "Flask HTTP route \"/send-message\" will handle route requests"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 1,
+                  "endLine": 322,
+                  "endColumn": 6,
+                  "snippet": {
+                    "text": "@app.route(\"/send-message\", methods=[\"GET\", \"POST\"])\ndef send_message():\n    if (\"loggedin\" not in session) and (\n        request.cookies.get(\"secret\") != \"correct-horse-battery-staple\"\n    ):\n        return redirect(\"/login\")\n\n    if request.cookies.get(\"secret\") == \"correct-horse-battery-staple\":\n        req = request.form\n        victim_id = req.get(\"id\")\n        msg = req.get(\"msg\")\n\n        def db_query():\n            db = Database()\n            emps = db.send_message_puppeteer(victim_id, msg)\n\n            return emps\n\n        res2 = db_query()\n\n        return render_template(\"send-message.html\")\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n    if request.method == \"POST\":\n        if res[\"messages\"] > 0:\n            req = request.form\n            victim_id = req.get(\"id\")\n            msg = req.get(\"msg\")\n\n            def db_query():\n                db = Database()\n                emps = db.send_message(victim_id, msg, session[\"id\"])\n\n                return emps\n\n            res2 = db_query()\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\n        \"send-message.html\",\n        color=session[\"color\"],\n        username=session[\"username\"],\n        remaining=res[\"messages\"],\n    )"
+                  }
+                }
+              }
+            }
+          ],
+          "fingerprints": {
+            "matchBasedId/v1": "c3a4ef0d8e48decc0a1849641e32b9c128334852b6a5e369ff8163d023b47ea9886fa3083accf0d74423ff223a5dce39f25d97a2d20b1a723aaf01dc11f7d87f_0"
+          },
+          "properties": {}
+        },
+        {
           "ruleId": "ae5711f8-7149-38e6-b9ad-5881a94afbff",
           "kind": "fail",
           "level": "warning",
@@ -481,33 +534,37 @@
           "properties": {}
         },
         {
-          "ruleId": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
+          "ruleId": "9712c560-68c2-36d1-abe9-779d22a47f5b",
           "kind": "fail",
           "level": "warning",
           "message": {
-            "text": "Flask HTTP route \"/send-message\" will handle route requests"
+            "text": "\"Cryptographic Weakness in crypto.pseudoRandomBytes()/Math.random() Random Number Generator\""
           },
           "locations": [
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "flask_xssworm.py",
+                  "uri": "cluster.js",
                   "uriBaseId": "%SRCROOT%"
                 },
                 "region": {
-                  "startLine": 266,
-                  "startColumn": 1,
-                  "endLine": 322,
-                  "endColumn": 6,
+                  "startLine": 35,
+                  "startColumn": 56,
+                  "endLine": 35,
+                  "endColumn": 69,
                   "snippet": {
-                    "text": "@app.route(\"/send-message\", methods=[\"GET\", \"POST\"])\ndef send_message():\n    if (\"loggedin\" not in session) and (\n        request.cookies.get(\"secret\") != \"correct-horse-battery-staple\"\n    ):\n        return redirect(\"/login\")\n\n    if request.cookies.get(\"secret\") == \"correct-horse-battery-staple\":\n        req = request.form\n        victim_id = req.get(\"id\")\n        msg = req.get(\"msg\")\n\n        def db_query():\n            db = Database()\n            emps = db.send_message_puppeteer(victim_id, msg)\n\n            return emps\n\n        res2 = db_query()\n\n        return render_template(\"send-message.html\")\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n    if request.method == \"POST\":\n        if res[\"messages\"] > 0:\n            req = request.form\n            victim_id = req.get(\"id\")\n            msg = req.get(\"msg\")\n\n            def db_query():\n                db = Database()\n                emps = db.send_message(victim_id, msg, session[\"id\"])\n\n                return emps\n\n            res2 = db_query()\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\n        \"send-message.html\",\n        color=session[\"color\"],\n        username=session[\"username\"],\n        remaining=res[\"messages\"],\n    )"
+                    "text": "  var array = Array.from({length: 1001}, (_, i) => [i, Math.random()]).sort((a, b) => a[1] - b[1]).map(([n, r]) => n)"
                   }
                 }
               }
             }
           ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "dc218191d84ae865d032e55bbd1b92841e63253447fd6fed0d3c9f2a4e3a2872",
+            "glog-pfp-ruleFileCode/v1": "aaceb6de06f463d4e1d7e32ad9351c35eb2c3dd16905a99ab9d1496a99714628"
+          },
           "fingerprints": {
-            "matchBasedId/v1": "c3a4ef0d8e48decc0a1849641e32b9c128334852b6a5e369ff8163d023b47ea9886fa3083accf0d74423ff223a5dce39f25d97a2d20b1a723aaf01dc11f7d87f_0"
+            "glog-fp-ruleFileCode/v1": "aaceb6de06f463d4e1d7e32ad9351c35eb2c3dd16905a99ab9d1496a99714628"
           },
           "properties": {}
         }
