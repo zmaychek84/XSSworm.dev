@@ -12,216 +12,6 @@
           "informationUri": "https://www.glog.ai",
           "rules": [
             {
-              "id": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "011b3136-79e1-376d-b1bf-2a8d4681a7e1",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "387247e5-e8d9-31e0-88c0-d2a6f7781f26",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "7be49461-66a5-3f70-ad33-501a1f45ae9c",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "feb80049-4864-3c22-8be4-bc6e3ff298f4",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "aa3578de-9f1f-3361-836d-ee1873ef7f70",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
-              "id": "ae5711f8-7149-38e6-b9ad-5881a94afbff",
-              "name": "resources.rules.python.flask-app-route-handler",
-              "shortDescription": {
-                "text": "Opengrep Finding: resources.rules.python.flask-app-route-handler"
-              },
-              "fullDescription": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests"
-              },
-              "defaultConfiguration": {
-                "enabled": true,
-                "level": "note"
-              },
-              "help": {
-                "text": "Flask HTTP route $ROUTE will handle $METHOD requests\n💎 Enable cross-file analysis and Pro rules for free at sg.run/pro",
-                "markdown": "Flask HTTP route $ROUTE will handle $METHOD requests\n\n#### 💎 Enable cross-file analysis and Pro rules for free at <a href='https://sg.run/pro'>sg.run/pro</a>"
-              },
-              "properties": {
-                "precision": "very-high"
-              }
-            },
-            {
               "id": "9712c560-68c2-36d1-abe9-779d22a47f5b",
               "name": "\"Cryptographic Weakness in crypto.pseudoRandomBytes()/Math.random() Random Number Generator\"",
               "helpUri": "https://www.glog.ai/",
@@ -242,6 +32,276 @@
                   "CWE-338"
                 ]
               }
+            },
+            {
+              "id": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
+              "name": "\"Handling Route Requests with Flask HTTP Route \"/\"\"\n",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nIn Python Flask web applications, the `app.route` decorator is used to bind a function to a URL route. If not properly handled, it can lead to various security vulnerabilities such as Unvalidated Redirects and Forwards, Injection, and Cross-Site Scripting (XSS).\n\nFor instance, if user input is directly used to determine the route, an attacker could manipulate the input to access unauthorized routes or perform malicious actions. This is a form of Unvalidated Redirects and Forwards vulnerability (CWE-601).\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, it is recommended to:\n\n- Avoid using user input to determine the route directly. If it's necessary, validate and sanitize the input before using it.\n- Use a whitelist of allowed paths and reject any request not matching the whitelist.\n- Implement proper error handling so that no sensitive information is leaked through error messages.\n\n## Source Code Fix Recommendation\n\nHere is an example of a vulnerable Flask route:\n\n```python\nfrom flask import Flask, request\napp = Flask(__name__)\n\n@app.route('/')\ndef home():\n    return 'Home Page'\n\n@app.route('/<name>')\ndef user(name):\n    return 'Hello, %s!' % name\n```\n\nIn the above code, the `<name>` in the route can be manipulated by an attacker. A safer approach would be:\n\n```python\nfrom flask import Flask, request\napp = Flask(__name__)\n\n@app.route('/')\ndef home():\n    return 'Home Page'\n\n@app.route('/user/<name>')\ndef user(name):\n    # Validate and sanitize the name before using it\n    name = sanitize_input(name)\n    if name in allowed_names:\n        return 'Hello, %s!' % name\n    else:\n        return 'Invalid user'\n```\n\nIn this code, `sanitize_input` is a function that you would implement to sanitize the input, and `allowed_names` is a list of allowed names.\n\n## Library Dependencies\n\n- Flask\n\n## References\n\n- [OWASP Unvalidated Redirects and Forwards Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html)\n- [CWE-601: URL Redirection to Untrusted Site ('Open Redirect')](https://cwe.mitre.org/data/definitions/601.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-601",
+                    "url": "https://cwe.mitre.org/data/definitions/601.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-601"
+                ]
+              }
+            },
+            {
+              "id": "011b3136-79e1-376d-b1bf-2a8d4681a7e1",
+              "name": "\"Handling Route Requests with Flask HTTP \"/rules\"\"",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nThe `app.route` function in Flask is used to map URLs to Python functions. If not properly validated, it can lead to various security vulnerabilities such as Unvalidated Redirects and Forwards (CWE-601), Cross-Site Scripting (XSS, CWE-79), and Injection (CWE-77, CWE-89).\n\n## Mitigation Advice\n\nTo mitigate these vulnerabilities, it is recommended to:\n\n1. Always validate and sanitize user inputs. Never trust user inputs blindly.\n2. Use parameterized queries or prepared statements to prevent SQL injection.\n3. Use the `url_for` function in Flask to generate URLs, instead of hardcoding them.\n4. Use the `redirect` function in Flask to redirect users, instead of manually constructing the URL.\n5. Use the `escape` function in Flask to escape any user inputs that will be included in the HTML output.\n\n## Code Fix Recommendation\n\nHere is an example of a vulnerable Flask route:\n\n```python\nfrom flask import Flask, request\napp = Flask(__name__)\n\n@app.route('/rules/<string:rule_id>')\ndef get_rule(rule_id):\n    # Vulnerable to SQL Injection\n    rule = db.execute(\"SELECT * FROM rules WHERE id = \" + rule_id)\n    return rule\n```\n\nThe above code is vulnerable to SQL Injection because it directly includes the `rule_id` in the SQL query. Here is the fixed code:\n\n```python\nfrom flask import Flask, request\nfrom flask_sqlalchemy import SQLAlchemy\napp = Flask(__name__)\ndb = SQLAlchemy(app)\n\n@app.route('/rules/<string:rule_id>')\ndef get_rule(rule_id):\n    # Fixed SQL Injection\n    rule = db.session.query(Rule).filter(Rule.id == rule_id).first()\n    return rule\n```\n\nIn the fixed code, SQLAlchemy is used to construct the SQL query, which automatically escapes the `rule_id` to prevent SQL Injection.\n\n## Library Dependencies\n\n- Flask\n- Flask-SQLAlchemy\n\n## References\n\n- [OWASP Cross-Site Scripting (XSS)](https://owasp.org/www-community/attacks/xss/)\n- [OWASP SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)\n- [CWE-601: URL Redirection to Untrusted Site ('Open Redirect')](https://cwe.mitre.org/data/definitions/601.html)\n- [CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')](https://cwe.mitre.org/data/definitions/79.html)\n- [CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection')](https://cwe.mitre.org/data/definitions/77.html)\n- [CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')](https://cwe.mitre.org/data/definitions/89.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-601",
+                    "url": "https://cwe.mitre.org/data/definitions/601.html"
+                  },
+                  {
+                    "id": "CWE-79",
+                    "url": "https://cwe.mitre.org/data/definitions/79.html"
+                  },
+                  {
+                    "id": "CWE-77",
+                    "url": "https://cwe.mitre.org/data/definitions/77.html"
+                  },
+                  {
+                    "id": "CWE-89",
+                    "url": "https://cwe.mitre.org/data/definitions/89.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-601",
+                  "CWE-79",
+                  "CWE-77",
+                  "CWE-89"
+                ]
+              }
+            },
+            {
+              "id": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
+              "name": "\"Handling Route Requests with Flask HTTP \"/login\" Route\"",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nIn Python Flask web applications, the \"/login\" route is often used to handle user authentication. If not properly secured, this route can be exploited by attackers to gain unauthorized access to the application. This vulnerability can occur due to various reasons such as lack of input validation, insecure transmission of credentials, or improper session management.\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, the following measures should be taken:\n\n1. **Input Validation**: Always validate user inputs to prevent SQL Injection, Cross-Site Scripting (XSS), and other injection attacks.\n\n2. **Secure Transmission**: Always use HTTPS for transmitting sensitive data like user credentials to prevent Man-In-The-Middle (MITM) attacks.\n\n3. **Proper Session Management**: Implement proper session management to prevent Session Hijacking or Session Sidejacking attacks.\n\n4. **Use of Security Headers**: Implement security headers like Content Security Policy (CSP), HTTP Strict Transport Security (HSTS) to prevent various web attacks.\n\n5. **Rate Limiting**: Implement rate limiting to prevent Brute Force attacks.\n\n## Code Fix Recommendation\n\nHere is a simple example of a secure \"/login\" route in a Flask application:\n\n```python\nfrom flask import Flask, request, session, redirect, url_for\nfrom werkzeug.security import check_password_hash\nimport rate_limit\n\napp = Flask(__name__)\napp.config['SECRET_KEY'] = 'your-secret-key'\n\n@app.route('/login', methods=['GET', 'POST'])\n@rate_limit.limit('5/minute')  # Rate limiting\ndef login():\n    error = None\n    if request.method == 'POST':\n        username = request.form['username']\n        password = request.form['password']\n        # Fetch user from the database\n        user = User.query.filter_by(username=username).first()\n        if user is None or not check_password_hash(user.password, password):\n            error = 'Invalid Credentials. Please try again.'\n        else:\n            session['logged_in'] = True\n            return redirect(url_for('home'))\n    return render_template('login.html', error=error)\n```\n\n## Library Dependencies\n\n- Flask\n- Werkzeug\n- Flask-Limiter\n\n## References\n\n- [OWASP Flask Security](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/01-Testing_for_Session_Management_Schema.html)\n- [CWE-287: Improper Authentication](https://cwe.mitre.org/data/definitions/287.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-287",
+                    "url": "https://cwe.mitre.org/data/definitions/287.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-287"
+                ]
+              }
+            },
+            {
+              "id": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
+              "name": "\"Handling Route Requests with Flask HTTP \"/register\"\"",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nIn Python, Flask is a popular web framework that is used to develop web applications. A common vulnerability in Flask applications is the improper handling of route requests, specifically the \"/register\" route. This vulnerability can lead to unauthorized access, data leakage, and other security issues.\n\nThe vulnerability occurs when the \"/register\" route does not properly validate or sanitize the incoming POST request data. This can lead to various attacks such as SQL Injection, Cross-Site Scripting (XSS), and Remote Code Execution (RCE).\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, it is recommended to:\n\n1. Always validate and sanitize user input: Never trust user input and always validate and sanitize it before processing. This can prevent attacks such as SQL Injection and XSS.\n\n2. Use prepared statements or parameterized queries: This can prevent SQL Injection attacks.\n\n3. Implement proper error handling: Do not reveal sensitive information in error messages.\n\n4. Use secure coding practices: Follow secure coding practices to prevent vulnerabilities.\n\n## Source Code Fix Recommendation\n\nHere is a simple example of how to handle POST requests in Flask:\n\n```python\nfrom flask import Flask, request\nfrom werkzeug.security import generate_password_hash\n\napp = Flask(__name__)\n\n@app.route('/register', methods=['POST'])\ndef register():\n    username = request.form.get('username')\n    password = request.form.get('password')\n\n    # Validate and sanitize input\n    if not username or not password:\n        return \"Invalid input\", 400\n\n    # Hash the password\n    hashed_password = generate_password_hash(password)\n\n    # Store the user in the database\n    # ...\n\n    return \"User registered successfully\", 200\n```\n\nIn this example, the user input is validated and the password is hashed before storing it in the database.\n\n## Library Dependencies\n\n- Flask\n- Werkzeug\n\n## References\n\n- [OWASP Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)\n- [CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')](https://cwe.mitre.org/data/definitions/89.html)\n- [CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')](https://cwe.mitre.org/data/definitions/79.html)\n- [CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')](https://cwe.mitre.org/data/definitions/78.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-89",
+                    "url": "https://cwe.mitre.org/data/definitions/89.html"
+                  },
+                  {
+                    "id": "CWE-79",
+                    "url": "https://cwe.mitre.org/data/definitions/79.html"
+                  },
+                  {
+                    "id": "CWE-78",
+                    "url": "https://cwe.mitre.org/data/definitions/78.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-89",
+                  "CWE-79",
+                  "CWE-78"
+                ]
+              }
+            },
+            {
+              "id": "387247e5-e8d9-31e0-88c0-d2a6f7781f26",
+              "name": "\"Handling Route Requests with Flask HTTP Route \"/faq\"\"",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nFlask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.\n\nThe `app.route` function in Flask is used to map URLs to Python functions. When a user visits a URL, the associated function is executed and the returned value is sent to the browser as a response.\n\nA potential vulnerability can occur if user input is directly used within the route function without proper validation or sanitization. This can lead to various attacks such as path traversal, remote code execution, or information disclosure.\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, it is recommended to always validate and sanitize user input. Never trust user input blindly. Use regular expressions to ensure that the input matches the expected format. Avoid using user input directly in critical functions such as file operations, database queries, or URL routing.\n\n## Source Code Fix Recommendation\n\nHere is an example of a vulnerable Flask route:\n\n```python\nfrom flask import Flask\napp = Flask(__name__)\n\n@app.route('/faq/<user_input>')\ndef faq(user_input):\n    # Vulnerable code here\n    pass\n```\n\nTo fix this vulnerability, you can use the `werkzeug.routing` module to add a converter that validates the user input:\n\n```python\nfrom flask import Flask\nfrom werkzeug.routing import BaseConverter, ValidationError\n\nclass ValidInputConverter(BaseConverter):\n    def to_python(self, value):\n        # Add your validation logic here\n        if not value.isalnum():\n            raise ValidationError()\n        return value\n\napp = Flask(__name__)\napp.url_map.converters['valid'] = ValidInputConverter\n\n@app.route('/faq/<valid:user_input>')\ndef faq(user_input):\n    # Safe code here\n    pass\n```\n\nIn this example, the `ValidInputConverter` class checks if the user input contains only alphanumeric characters. If the input is not valid, a `ValidationError` is raised and the route is not executed.\n\n## Library Dependencies\n\n- Flask\n- Werkzeug\n\n## References\n\n- [CWE-20: Improper Input Validation](https://cwe.mitre.org/data/definitions/20.html)\n- [CWE-74: Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')](https://cwe.mitre.org/data/definitions/74.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-20",
+                    "url": "https://cwe.mitre.org/data/definitions/20.html"
+                  },
+                  {
+                    "id": "CWE-74",
+                    "url": "https://cwe.mitre.org/data/definitions/74.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-20",
+                  "CWE-74"
+                ]
+              }
+            },
+            {
+              "id": "7be49461-66a5-3f70-ad33-501a1f45ae9c",
+              "name": "\"Handling Route Requests with Flask HTTP Route \"/score\"\"",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nFlask is a popular web framework for Python, and it uses decorators to define routes. The `@app.route` decorator is used to bind a function to a URL route. If user input is not properly sanitized before being used in a route, it can lead to various security vulnerabilities, such as path traversal and remote code execution.\n\nIn the context of the \"/score\" route, if user input is directly used to determine the file path, an attacker could manipulate the input to access arbitrary files on the server.\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, you should avoid using user input directly in file paths or system commands. If user input must be used, it should be properly sanitized and validated to ensure it does not contain malicious values. \n\n## Source Code Fix Recommendation\n\nIf the \"/score\" route is intended to serve files from a specific directory, you can use a safe method like `os.path.join` to construct the file path, and `flask.send_from_directory` to safely send the file. Here is an example:\n\n```python\nfrom flask import Flask, send_from_directory\nimport os\n\napp = Flask(__name__)\n\n@app.route('/score/<path:filename>')\ndef score(filename):\n    safe_directory = \"/path/to/safe/directory\"\n    return send_from_directory(safe_directory, filename)\n```\n\nIn this example, `filename` is the user input. `os.path.join` is used to safely join the directory path and the filename. `flask.send_from_directory` ensures that the file is within the specified directory and prevents directory traversal attacks.\n\n## Library Dependencies\n\n- Flask\n\n## References\n\n- [OWASP Unvalidated Redirects and Forwards Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html)\n- [CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')](https://cwe.mitre.org/data/definitions/22.html)\n- [CWE-73: External Control of File Name or Path](https://cwe.mitre.org/data/definitions/73.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-22",
+                    "url": "https://cwe.mitre.org/data/definitions/22.html"
+                  },
+                  {
+                    "id": "CWE-73",
+                    "url": "https://cwe.mitre.org/data/definitions/73.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-22",
+                  "CWE-73"
+                ]
+              }
+            },
+            {
+              "id": "aa3578de-9f1f-3361-836d-ee1873ef7f70",
+              "name": "\"HTTP Route \"/update\" Managed by Flask\"",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nThe HTTP route \"/update\" managed by Flask in Python could be vulnerable to several types of attacks if not properly secured. These attacks could include Cross-Site Scripting (XSS), SQL Injection, and Cross-Site Request Forgery (CSRF). \n\nThe vulnerability arises when user input is not properly sanitized or validated before being processed by the application. This could allow an attacker to inject malicious scripts or commands, which could lead to unauthorized access, data leakage, or other security breaches.\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, it is recommended to:\n\n1. Always validate and sanitize user input: Never trust user input and always validate it before processing. This can prevent attacks such as XSS and SQL Injection.\n\n2. Use CSRF protection: Flask has built-in CSRF protection. Make sure to use it to prevent CSRF attacks.\n\n3. Use parameterized queries or ORM: This can prevent SQL Injection attacks.\n\n4. Use HTTPS: This can prevent Man-In-The-Middle attacks.\n\n## Source Code Fix Recommendation\n\nHere is a simple example of how to implement these mitigations in Flask:\n\n```python\nfrom flask import Flask, request, render_template\nfrom flask_wtf.csrf import CSRFProtect\nfrom sqlalchemy.orm import sessionmaker\nfrom sqlalchemy import create_engine\nfrom yourapp.models import YourModel\n\napp = Flask(__name__)\ncsrf = CSRFProtect(app)\n\n@app.route('/update', methods=['GET', 'POST'])\n@csrf.exempt\ndef update():\n    if request.method == 'POST':\n        # Use SQLAlchemy ORM for database operations\n        engine = create_engine('sqlite:///yourdatabase.db')\n        Session = sessionmaker(bind=engine)\n        session = Session()\n\n        # Validate and sanitize user input\n        user_input = request.form.get('user_input')\n        if not user_input:\n            return 'Invalid input', 400\n        user_input = sanitize(user_input)\n\n        # Update the database\n        your_model = session.query(YourModel).first()\n        your_model.your_field = user_input\n        session.commit()\n\n        return 'Update successful', 200\n\n    return render_template('update.html')\n```\n\n## Library Dependencies\n\n- Flask\n- Flask-WTF\n- SQLAlchemy\n\n## References\n\n- [OWASP Flask Security](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/02-Testing_for_Cookies_Attributes)\n- [CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')](https://cwe.mitre.org/data/definitions/79.html)\n- [CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')](https://cwe.mitre.org/data/definitions/89.html)\n- [CWE-352: Cross-Site Request Forgery (CSRF)](https://cwe.mitre.org/data/definitions/352.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-79",
+                    "url": "https://cwe.mitre.org/data/definitions/79.html"
+                  },
+                  {
+                    "id": "CWE-89",
+                    "url": "https://cwe.mitre.org/data/definitions/89.html"
+                  },
+                  {
+                    "id": "CWE-352",
+                    "url": "https://cwe.mitre.org/data/definitions/352.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-79",
+                  "CWE-89",
+                  "CWE-352"
+                ]
+              }
+            },
+            {
+              "id": "feb80049-4864-3c22-8be4-bc6e3ff298f4",
+              "name": "\"/read-message\" Flask HTTP route manages requests.",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nThe `\"/read-message\"` Flask HTTP route vulnerability in Python programming language refers to a potential security flaw where an attacker can exploit the route to perform unauthorized actions. This can occur if the route does not properly validate and sanitize incoming requests, leading to issues such as SQL Injection, Cross-Site Scripting (XSS), or Remote Code Execution.\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, it is recommended to:\n\n1. Always validate and sanitize user inputs: Never trust user input and always validate it against expected values. Use Flask's request validation or a library like WTForms to validate incoming data.\n\n2. Use prepared statements or ORM: To prevent SQL Injection, use prepared statements or an ORM like SQLAlchemy which automatically escapes queries.\n\n3. Use context-aware output encoding: To prevent XSS, use context-aware output encoding. Flask's Jinja2 templates automatically escape output, but be careful with `|safe` filter.\n\n4. Limit permissions: Run your application with the least privileges necessary. This can limit the potential damage of an attack.\n\n5. Keep software up-to-date: Regularly update Flask and all dependencies to their latest versions to benefit from the latest security patches.\n\n## Source Code Fix Recommendation\n\nHere is a simple example of how to validate incoming data in Flask:\n\n```python\nfrom flask import Flask, request\nfrom flask_wtf import FlaskForm\nfrom wtforms import StringField\nfrom wtforms.validators import DataRequired\n\napp = Flask(__name__)\napp.config['SECRET_KEY'] = 'your-secret-key'\n\nclass MessageForm(FlaskForm):\n    message = StringField('message', validators=[DataRequired()])\n\n@app.route('/read-message', methods=['POST'])\ndef read_message():\n    form = MessageForm(request.form)\n    if form.validate():\n        message = form.message.data\n        # Process the message\n        return 'Message received', 200\n    else:\n        return 'Bad request', 400\n```\n\n## Library Dependencies\n\n- Flask\n- Flask-WTF\n- WTForms\n\n## References\n\n- [OWASP Flask Security](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/06-Session_Management_Testing/02-Testing_for_Cookies_Attributes)\n- [OWASP Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)\n- [CWE-94: Code Injection](https://cwe.mitre.org/data/definitions/94.html)\n- [CWE-89: SQL Injection](https://cwe.mitre.org/data/definitions/89.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-94",
+                    "url": "https://cwe.mitre.org/data/definitions/94.html"
+                  },
+                  {
+                    "id": "CWE-89",
+                    "url": "https://cwe.mitre.org/data/definitions/89.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-94",
+                  "CWE-89"
+                ]
+              }
+            },
+            {
+              "id": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
+              "name": "\"/send-message\" Flask HTTP route manages requests.",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nThe \"/send-message\" Flask HTTP route manages requests vulnerability in Python programming language refers to a potential security flaw where an attacker can exploit the route to perform malicious activities such as Cross-Site Scripting (XSS), SQL Injection, or Remote Code Execution. This can occur if the route does not properly validate and sanitize the incoming requests and their data.\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, it is recommended to:\n\n1. Always validate and sanitize user inputs: Never trust user inputs. Always validate them against a set of rules and sanitize them to prevent any malicious code from being executed.\n\n2. Use prepared statements for SQL queries: If the application uses a database, always use prepared statements or parameterized queries to prevent SQL Injection attacks.\n\n3. Implement proper error handling: Do not reveal sensitive information in error messages. Implement proper error handling to prevent information leakage.\n\n4. Use HTTP methods appropriately: Use the appropriate HTTP methods for different operations. For example, use GET for retrieving data, POST for sending data, PUT for updating data, and DELETE for deleting data.\n\n## Source Code Fix Recommendation\n\nHere is a simple example of how to validate and sanitize user inputs in a Flask route:\n\n```python\nfrom flask import Flask, request\nfrom werkzeug.utils import escape\n\napp = Flask(__name__)\n\n@app.route('/send-message', methods=['GET', 'POST'])\ndef send_message():\n    if request.method == 'POST':\n        message = escape(request.form.get('message'))\n        # Process the message\n        return 'Message sent!'\n    return 'Send a message'\n```\n\nIn this example, the `escape` function from the `werkzeug.utils` module is used to sanitize the user input.\n\n## Library Dependencies\n\nThe code example requires the following library dependencies:\n\n- Flask\n- Werkzeug\n\n## References\n\n- [OWASP Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)\n- [CWE-94: Improper Control of Generation of Code ('Code Injection')](https://cwe.mitre.org/data/definitions/94.html)"
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-94",
+                    "url": "https://cwe.mitre.org/data/definitions/94.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-94"
+                ]
+              }
+            },
+            {
+              "id": "abcc6325-9a9f-3b92-a26a-7ba8d2a0ed0d",
+              "name": "\"Flask.jsonify() as a Flask Helper Method for Returning JSON from Flask Routes\"",
+              "helpUri": "https://www.glog.ai/",
+              "help": {
+                "text": "",
+                "markdown": "## Description\n\nFlask is a popular web framework for Python, and it provides a method `jsonify()` to convert Python objects into JSON format. However, if not used properly, it can lead to security vulnerabilities. Specifically, if user-supplied data is passed directly to `jsonify()` without proper sanitization, it can lead to Cross-Site Scripting (XSS) attacks. This is because `jsonify()` does not escape HTML special characters by default, which can allow an attacker to inject malicious scripts.\n\n## Mitigation Advice\n\nTo mitigate this vulnerability, you should always sanitize user-supplied data before passing it to `jsonify()`. This can be done by using a library that escapes HTML special characters, such as `html.escape()` in Python's standard library. Additionally, you should also set the `Content-Type` header to `application/json` to ensure that the browser treats the response as JSON and not HTML.\n\n## Source Code Fix Recommendation\n\nHere is an example of how to fix this vulnerability:\n\n```python\nfrom flask import Flask, jsonify, request\nimport html\n\napp = Flask(__name__)\n\n@app.route('/data', methods=['POST'])\ndef data():\n    user_data = request.form['data']\n    sanitized_data = html.escape(user_data)\n    return jsonify(sanitized_data=sanitized_data)\n```\n\nIn this example, `html.escape()` is used to sanitize the user-supplied data before it is passed to `jsonify()`.\n\n## Library Dependencies\n\n- Flask\n\n## References\n\n- [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)\n- [CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')](https://cwe.mitre.org/data/definitions/79.html)\n\nPlease note that the links provided are accessible to anonymous users at the time of writing this report."
+              },
+              "properties": {
+                "cwe": [
+                  {
+                    "id": "CWE-79",
+                    "url": "https://cwe.mitre.org/data/definitions/79.html"
+                  }
+                ],
+                "severity": "MEDIUM",
+                "kind": "FAIL",
+                "tags": [
+                  "CWE-79"
+                ]
+              }
             }
           ],
           "language": "en-US",
@@ -254,285 +314,6 @@
       },
       "language": "en-US",
       "results": [
-        {
-          "ruleId": "011b3136-79e1-376d-b1bf-2a8d4681a7e1",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/rules\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 132,
-                  "startColumn": 1,
-                  "endLine": 135,
-                  "endColumn": 41,
-                  "snippet": {
-                    "text": "@app.route(\"/rules\")\ndef rules():\n\n    return render_template(\"rules.html\")"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "4c28bf50c5f7fcd0b4f7edc9541b84a75cd7923b515b0c4d29fc37d1c1a34c7be8573010583696e0b9e30a51fe0b210ce41c4c842950f18fedbc18d9778746ed_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 126,
-                  "startColumn": 1,
-                  "endLine": 129,
-                  "endColumn": 41,
-                  "snippet": {
-                    "text": "@app.route(\"/\")\ndef index():\n\n    return render_template(\"index.html\")"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "7e21f9c0ba6cdd5a9b497a2b49b160b9d34bcd60272c6a0f19f09311dd4378d07036dda4de164b51f25f997be19984508714129f002ef6747f95560edb4677ef_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/login\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 138,
-                  "startColumn": 1,
-                  "endLine": 168,
-                  "endColumn": 45,
-                  "snippet": {
-                    "text": "@app.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n\n    if \"loggedin\" in session:\n        return redirect(\"/send-message\")\n\n    if request.method == \"POST\":\n        req = request.form\n\n        username = req.get(\"username\")\n        password = req.get(\"password\")\n\n        def db_query():\n            db = Database()\n            emps = db.login(username)\n\n            return emps\n\n        account = db_query()\n        if account:\n            if bcrypt.hashpw(\n                password.encode(\"utf-8\"), account[0][\"password\"].encode(\"utf-8\")\n            ) == account[0][\"password\"].encode(\"utf-8\"):\n                session[\"loggedin\"] = True\n                session[\"id\"] = account[0][\"id\"]\n                session[\"username\"] = account[0][\"username\"]\n                session[\"color\"] = account[0][\"color\"]\n\n        return redirect(\"/send-message\")\n    else:\n        return render_template(\"login.html\")"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "4c47aaafff2b75c070614f750141df1f940c93d35edfed88d269fe9d1bf0f1101f3b40c62dae728fa2a3b931b7c3d20314b90cc5ee96afd2e63d70e2afc0a7dd_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "387247e5-e8d9-31e0-88c0-d2a6f7781f26",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/faq\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 192,
-                  "startColumn": 1,
-                  "endLine": 195,
-                  "endColumn": 39,
-                  "snippet": {
-                    "text": "@app.route(\"/faq\")\ndef faq():\n\n    return render_template(\"faq.html\")"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "da356e3506b1de209c66db6db801b69a013195416ec8bebc071b0bd9611cc701f11606c7c15b21d2b3a9fe1cc3f103b2fc7d1c9e73b5d1dcf59e275a2dfad5f7_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "7be49461-66a5-3f70-ad33-501a1f45ae9c",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/score\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 198,
-                  "startColumn": 1,
-                  "endLine": 218,
-                  "endColumn": 6,
-                  "snippet": {
-                    "text": "@app.route(\"/score\")\ndef score():\n    def db_query():\n        db = Database()\n        emps = db.list_victims()\n\n        return emps\n\n    res = db_query()\n\n    def db_query2():\n        db = Database()\n        emps = db.count_colors()\n\n        return emps\n\n    res2 = db_query2()\n\n    return render_template(\n        \"score.html\", result=res, result2=res2, content_type=\"application/json\"\n    )"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "e4390ed86ac39bf32d3b46ababf34cc2468b487324c0ddf24a6235ed92564eafec7cebb03f53864b3e04cfad325f89847a2f4f7764516b04a6cc2e5331424fb4_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "feb80049-4864-3c22-8be4-bc6e3ff298f4",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/read-message\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 247,
-                  "startColumn": 1,
-                  "endLine": 263,
-                  "endColumn": 87,
-                  "snippet": {
-                    "text": "@app.route(\"/read-message\")\ndef read_message():\n\n    if request.cookies.get(\"secret\") != \"correct-horse-battery-staple\":\n        abort(403)\n\n    id = request.cookies.get(\"31p475~Yr37748-35r0h~7c3rr0C-ID\")\n\n    def db_query():\n        db = Database()\n        emps = db.read_message(id)\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\"read-message.html\", result=res, content_type=\"text/plain\")"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "bb12d7a71f0d3f13579b99ce9f818ceb19974d0c542038e8d2ef561ee5dc0fb5cd8305505a896405cb30c4760d5c6b92f9997c4e0690f19ae53797f40d9234f0_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "aa3578de-9f1f-3361-836d-ee1873ef7f70",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/update\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 221,
-                  "startColumn": 1,
-                  "endLine": 244,
-                  "endColumn": 42,
-                  "snippet": {
-                    "text": "@app.route(\"/update\", methods=[\"GET\", \"POST\"])\ndef update():\n    if request.cookies.get(\"secret\") != \"correct-horse-battery-staple\":\n        abort(403)\n\n    if request.method == \"POST\":\n        req = request.form\n\n        color = req.get(\"color\")\n\n        if \"31p475~Yr37748-35r0h~7c3rr0C-ID\" in request.cookies:\n            cookie_id = request.cookies.get(\"31p475~Yr37748-35r0h~7c3rr0C-ID\")\n\n            def db_query():\n                db = Database()\n                emps = db.update_color(color, cookie_id)\n\n                return emps\n\n            res = db_query()\n        else:\n            print(\"no cookie\")\n\n    return render_template(\"update.html\")"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "b2f0b8c27dcd5dad1214d17b2a0ca70461c0cf76eafcab8fd200f9755bc2f7dc058bf3dc18dae054c1355d479cdbf4eec30e9a3dfc1d8b3e38316fc2c7ef2762_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/send-message\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 266,
-                  "startColumn": 1,
-                  "endLine": 322,
-                  "endColumn": 6,
-                  "snippet": {
-                    "text": "@app.route(\"/send-message\", methods=[\"GET\", \"POST\"])\ndef send_message():\n    if (\"loggedin\" not in session) and (\n        request.cookies.get(\"secret\") != \"correct-horse-battery-staple\"\n    ):\n        return redirect(\"/login\")\n\n    if request.cookies.get(\"secret\") == \"correct-horse-battery-staple\":\n        req = request.form\n        victim_id = req.get(\"id\")\n        msg = req.get(\"msg\")\n\n        def db_query():\n            db = Database()\n            emps = db.send_message_puppeteer(victim_id, msg)\n\n            return emps\n\n        res2 = db_query()\n\n        return render_template(\"send-message.html\")\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n    if request.method == \"POST\":\n        if res[\"messages\"] > 0:\n            req = request.form\n            victim_id = req.get(\"id\")\n            msg = req.get(\"msg\")\n\n            def db_query():\n                db = Database()\n                emps = db.send_message(victim_id, msg, session[\"id\"])\n\n                return emps\n\n            res2 = db_query()\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\n        \"send-message.html\",\n        color=session[\"color\"],\n        username=session[\"username\"],\n        remaining=res[\"messages\"],\n    )"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "c3a4ef0d8e48decc0a1849641e32b9c128334852b6a5e369ff8163d023b47ea9886fa3083accf0d74423ff223a5dce39f25d97a2d20b1a723aaf01dc11f7d87f_0"
-          },
-          "properties": {}
-        },
-        {
-          "ruleId": "ae5711f8-7149-38e6-b9ad-5881a94afbff",
-          "kind": "fail",
-          "level": "warning",
-          "message": {
-            "text": "Flask HTTP route \"/jsonp\" will handle route requests"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "flask_xssworm.py",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 325,
-                  "startColumn": 1,
-                  "endLine": 343,
-                  "endColumn": 52,
-                  "snippet": {
-                    "text": "@app.route(\"/jsonp\")\ndef jsonp():\n    def db_query():\n        db = Database()\n        emps = db.count_colors()\n\n        return emps\n\n    res = db_query()\n    res = json.dumps(res)\n\n    content_type = \"application/json\"\n\n    callback = request.args.get(\"callback\", False)\n    if callback:\n        res = str(callback) + \"(\" + res + \")\"\n        content_type = \"text/javascript\"\n\n    return Response(res, content_type=content_type)"
-                  }
-                }
-              }
-            }
-          ],
-          "fingerprints": {
-            "matchBasedId/v1": "8c15eec95bdc78e3f28720beb3ce6dced612520b5898d2682f915770c7ef56b9ca1c89e44174d8bd1da481cac2c5068489d7dcf35cae8ebc5da9e73b01fd253e_0"
-          },
-          "properties": {}
-        },
         {
           "ruleId": "9712c560-68c2-36d1-abe9-779d22a47f5b",
           "kind": "fail",
@@ -565,6 +346,356 @@
           },
           "fingerprints": {
             "glog-fp-ruleFileCode/v1": "aaceb6de06f463d4e1d7e32ad9351c35eb2c3dd16905a99ab9d1496a99714628"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "4feae8dc-099c-3036-9fa5-093fd37a1ca6",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"Handling Route Requests with Flask HTTP Route \"/\"\"\n"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 1,
+                  "endLine": 129,
+                  "endColumn": 41,
+                  "snippet": {
+                    "text": "@app.route(\"/\")\ndef index():\n\n    return render_template(\"index.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "5272796b8f855e825f5b86f01d7823ea4e451db9271cb74b4fb83d541683cee1",
+            "glog-pfp-ruleFileCode/v1": "7e5cfbc0cdb361dc2da0bdf899b39dbeafcd81354d052566a684c4cb5ccdf0e0"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "7e5cfbc0cdb361dc2da0bdf899b39dbeafcd81354d052566a684c4cb5ccdf0e0"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "011b3136-79e1-376d-b1bf-2a8d4681a7e1",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"Handling Route Requests with Flask HTTP \"/rules\"\""
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 1,
+                  "endLine": 135,
+                  "endColumn": 41,
+                  "snippet": {
+                    "text": "@app.route(\"/rules\")\ndef rules():\n\n    return render_template(\"rules.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "394f33a967737b4cd6528bbae48b5bbcf3c5ea1e708c8d145dc9411a41dc6065",
+            "glog-pfp-ruleFileCode/v1": "723c84889ef91f01d622f0383c8ec04148a0fdf7d0a755977b043f89816e8b47"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "723c84889ef91f01d622f0383c8ec04148a0fdf7d0a755977b043f89816e8b47"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "ac432c66-c93d-3248-bd60-16e26fe5ca39",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"Handling Route Requests with Flask HTTP \"/login\" Route\""
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 1,
+                  "endLine": 168,
+                  "endColumn": 45,
+                  "snippet": {
+                    "text": "@app.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n\n    if \"loggedin\" in session:\n        return redirect(\"/send-message\")\n\n    if request.method == \"POST\":\n        req = request.form\n\n        username = req.get(\"username\")\n        password = req.get(\"password\")\n\n        def db_query():\n            db = Database()\n            emps = db.login(username)\n\n            return emps\n\n        account = db_query()\n        if account:\n            if bcrypt.hashpw(\n                password.encode(\"utf-8\"), account[0][\"password\"].encode(\"utf-8\")\n            ) == account[0][\"password\"].encode(\"utf-8\"):\n                session[\"loggedin\"] = True\n                session[\"id\"] = account[0][\"id\"]\n                session[\"username\"] = account[0][\"username\"]\n                session[\"color\"] = account[0][\"color\"]\n\n        return redirect(\"/send-message\")\n    else:\n        return render_template(\"login.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "affa200d8d9fbb786e101e847f3ccab60421166a10ea99d62d91a58844ff61ec",
+            "glog-pfp-ruleFileCode/v1": "2fbd94013c362d33099a76fe6d85328ae6ff1eda6c48eb36a24d6980fa23fbed"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "2fbd94013c362d33099a76fe6d85328ae6ff1eda6c48eb36a24d6980fa23fbed"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "f6e083fc-a9cf-378a-9037-c33ae0076cae",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"Handling Route Requests with Flask HTTP \"/register\"\""
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 1,
+                  "endLine": 189,
+                  "endColumn": 88,
+                  "snippet": {
+                    "text": "@app.route(\"/register\", methods=[\"POST\"])\ndef register():\n    if request.method == \"POST\":\n        req = request.form\n\n        username = req.get(\"username\")\n        color = req.get(\"color\")\n        password = req.get(\"password\")\n\n        hashed_password = bcrypt.hashpw(password.encode(\"utf-8\"), bcrypt.gensalt())\n\n        def db_query():\n            db = Database()\n            emps = db.add_user(username, color, hashed_password)\n\n            return emps\n\n        res = db_query()\n        return render_template(\"login.html\", check=\"<h1>Registration succesfull!</h1>\")"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "9a3175dc7216d21a60a572be61b3430bf12961829ce30e17bb8c5bf8dff8dd03",
+            "glog-pfp-ruleFileCode/v1": "7dca8eb51d181c3e0be3eb3e8210a5274544a0b64beff478b12a36d7f1136929"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "7dca8eb51d181c3e0be3eb3e8210a5274544a0b64beff478b12a36d7f1136929"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "387247e5-e8d9-31e0-88c0-d2a6f7781f26",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"Handling Route Requests with Flask HTTP Route \"/faq\"\""
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 1,
+                  "endLine": 195,
+                  "endColumn": 39,
+                  "snippet": {
+                    "text": "@app.route(\"/faq\")\ndef faq():\n\n    return render_template(\"faq.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "a402aa6a9b125e9adc02f2bc44f8822bb6283151c246f75549aa5b3c8a593202",
+            "glog-pfp-ruleFileCode/v1": "bfa25747b579883dc869354059eb39098d5b2341124c0b4f6760b3db85e324bc"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "bfa25747b579883dc869354059eb39098d5b2341124c0b4f6760b3db85e324bc"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "7be49461-66a5-3f70-ad33-501a1f45ae9c",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"Handling Route Requests with Flask HTTP Route \"/score\"\""
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 198,
+                  "startColumn": 1,
+                  "endLine": 218,
+                  "endColumn": 6,
+                  "snippet": {
+                    "text": "@app.route(\"/score\")\ndef score():\n    def db_query():\n        db = Database()\n        emps = db.list_victims()\n\n        return emps\n\n    res = db_query()\n\n    def db_query2():\n        db = Database()\n        emps = db.count_colors()\n\n        return emps\n\n    res2 = db_query2()\n\n    return render_template(\n        \"score.html\", result=res, result2=res2, content_type=\"application/json\"\n    )"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "a501b4826f134ebe20d2e213314176748aed3b2c519fb81eb9f9d22529a3bcdf",
+            "glog-pfp-ruleFileCode/v1": "a90b86ae08d1ce114723ed6353072e73ce66718392fc9bc0865de559d4edd21e"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "a90b86ae08d1ce114723ed6353072e73ce66718392fc9bc0865de559d4edd21e"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "aa3578de-9f1f-3361-836d-ee1873ef7f70",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"HTTP Route \"/update\" Managed by Flask\""
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 221,
+                  "startColumn": 1,
+                  "endLine": 244,
+                  "endColumn": 42,
+                  "snippet": {
+                    "text": "@app.route(\"/update\", methods=[\"GET\", \"POST\"])\ndef update():\n    if request.cookies.get(\"secret\") != \"correct-horse-battery-staple\":\n        abort(403)\n\n    if request.method == \"POST\":\n        req = request.form\n\n        color = req.get(\"color\")\n\n        if \"31p475~Yr37748-35r0h~7c3rr0C-ID\" in request.cookies:\n            cookie_id = request.cookies.get(\"31p475~Yr37748-35r0h~7c3rr0C-ID\")\n\n            def db_query():\n                db = Database()\n                emps = db.update_color(color, cookie_id)\n\n                return emps\n\n            res = db_query()\n        else:\n            print(\"no cookie\")\n\n    return render_template(\"update.html\")"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "e7acc50f12ec66f316982386dc0f91cc6e382478ec2a50bee121b3b3d3038f0f",
+            "glog-pfp-ruleFileCode/v1": "14e891de861bd28534505c6fd6a0cdcfe02e416eb731f904cb9368390873d012"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "14e891de861bd28534505c6fd6a0cdcfe02e416eb731f904cb9368390873d012"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "feb80049-4864-3c22-8be4-bc6e3ff298f4",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"/read-message\" Flask HTTP route manages requests."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 247,
+                  "startColumn": 1,
+                  "endLine": 263,
+                  "endColumn": 87,
+                  "snippet": {
+                    "text": "@app.route(\"/read-message\")\ndef read_message():\n\n    if request.cookies.get(\"secret\") != \"correct-horse-battery-staple\":\n        abort(403)\n\n    id = request.cookies.get(\"31p475~Yr37748-35r0h~7c3rr0C-ID\")\n\n    def db_query():\n        db = Database()\n        emps = db.read_message(id)\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\"read-message.html\", result=res, content_type=\"text/plain\")"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "88a7a3e42704ea3d262ccb727ae424ab6be1aff066823a4d3b91c0ce1b7ddaa0",
+            "glog-pfp-ruleFileCode/v1": "7b95db6a6e30672c671022ce45c856ede568b766ede0434729ac62dd77d815d8"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "7b95db6a6e30672c671022ce45c856ede568b766ede0434729ac62dd77d815d8"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "4c5bd72d-ef11-3bce-a96d-3f38b8ff9abb",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"/send-message\" Flask HTTP route manages requests."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 1,
+                  "endLine": 322,
+                  "endColumn": 6,
+                  "snippet": {
+                    "text": "@app.route(\"/send-message\", methods=[\"GET\", \"POST\"])\ndef send_message():\n    if (\"loggedin\" not in session) and (\n        request.cookies.get(\"secret\") != \"correct-horse-battery-staple\"\n    ):\n        return redirect(\"/login\")\n\n    if request.cookies.get(\"secret\") == \"correct-horse-battery-staple\":\n        req = request.form\n        victim_id = req.get(\"id\")\n        msg = req.get(\"msg\")\n\n        def db_query():\n            db = Database()\n            emps = db.send_message_puppeteer(victim_id, msg)\n\n            return emps\n\n        res2 = db_query()\n\n        return render_template(\"send-message.html\")\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n    if request.method == \"POST\":\n        if res[\"messages\"] > 0:\n            req = request.form\n            victim_id = req.get(\"id\")\n            msg = req.get(\"msg\")\n\n            def db_query():\n                db = Database()\n                emps = db.send_message(victim_id, msg, session[\"id\"])\n\n                return emps\n\n            res2 = db_query()\n\n    def db_query():\n        db = Database()\n        emps = db.check_remaining(session[\"id\"])\n\n        return emps\n\n    res = db_query()\n\n    return render_template(\n        \"send-message.html\",\n        color=session[\"color\"],\n        username=session[\"username\"],\n        remaining=res[\"messages\"],\n    )"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "8c873ec36f8f13d1b237324edd4c6ac44a4ccc1f797f5812788c2b0b907d923c",
+            "glog-pfp-ruleFileCode/v1": "6222382842ae7e20e4369f529acb8ca67fc0ca33cb74d4a67a1226411cd3f3c5"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "6222382842ae7e20e4369f529acb8ca67fc0ca33cb74d4a67a1226411cd3f3c5"
+          },
+          "properties": {}
+        },
+        {
+          "ruleId": "abcc6325-9a9f-3b92-a26a-7ba8d2a0ed0d",
+          "kind": "fail",
+          "level": "warning",
+          "message": {
+            "text": "\"Flask.jsonify() as a Flask Helper Method for Returning JSON from Flask Routes\""
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "flask_xssworm.py",
+                  "uriBaseId": "%SRCROOT%"
+                },
+                "region": {
+                  "startLine": 334,
+                  "startColumn": 5,
+                  "endLine": 343,
+                  "endColumn": 52,
+                  "snippet": {
+                    "text": "    res = json.dumps(res)\n\n    content_type = \"application/json\"\n\n    callback = request.args.get(\"callback\", False)\n    if callback:\n        res = str(callback) + \"(\" + res + \")\"\n        content_type = \"text/javascript\"\n\n    return Response(res, content_type=content_type)"
+                  }
+                }
+              }
+            }
+          ],
+          "partialFingerprints": {
+            "glog-pfp-ruleFileLineCode/v1": "1fd9b9f3042a1bd0727e0702adb2248825bb9febfb10e606b5f3c7ab0562811d",
+            "glog-pfp-ruleFileCode/v1": "d44b3099a1b3dd2c09a1b5d72b991fb3861d3d7333219d4d47cde6cbd6939b47"
+          },
+          "fingerprints": {
+            "glog-fp-ruleFileCode/v1": "d44b3099a1b3dd2c09a1b5d72b991fb3861d3d7333219d4d47cde6cbd6939b47"
           },
           "properties": {}
         }
